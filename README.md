@@ -1,7 +1,7 @@
 # tic_tac_toe_game
 
 A new Flutter project.
-
+![](../../Desktop/Screenshot_20230527_143539.png)![](../../Desktop/Screenshot_20230527_143617.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
